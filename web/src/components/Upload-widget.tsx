@@ -1,4 +1,4 @@
-import { UploadWidgetHeader } from "./Upload-widget-header";
+import { UploadWidgetHeader } from "./Upload-Widget-Header";
 
 export function UploadWidget(){
   return(
@@ -7,9 +7,5 @@ export function UploadWidget(){
     </div>
   )
 }
-
-
-
-
 
 

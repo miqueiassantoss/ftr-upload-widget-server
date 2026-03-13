@@ -1,11 +1,9 @@
-import { UploadWidget } from "./components/Upload-widget"
+import { UploadWidget } from "./components/Upload-Widget";
 
 export function App() {
   return(
     <main className="h-dvh flex flex-col items-center justify-center p-10">
-      <UploadWidget/>
+    <UploadWidget/>
     </main>
   )
 }
-
-export default App
