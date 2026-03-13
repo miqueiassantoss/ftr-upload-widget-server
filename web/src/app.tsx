@@ -1,4 +1,4 @@
-import { UploadWidget } from "./components/Upload-Widget";
+import { UploadWidget } from "./components/Upload-Widget/Upload-Widget";
 
 export function App() {
   return(
